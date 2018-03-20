@@ -4,8 +4,8 @@
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
-    "webpack-dev-server": "webpack-dev-server --progress --colors --mode development",
-    "webpack": "webpack --colors --mode development"
+    "start:dev": "webpack-dev-server --progress --colors --mode development",
+    "start:prod": "webpack --colors --mode development"
   },
   "keywords": [],
   "author": "",

@@ -1,2 +1,3 @@
-const a = `${7 * 7}`;
-console.log(a);
+import {main} from "./generators";
+
+main();
