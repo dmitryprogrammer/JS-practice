@@ -1,3 +1,3 @@
-import {main} from "./generators";
+import {setMain} from "./map-sat";
 
-main();
+setMain();
