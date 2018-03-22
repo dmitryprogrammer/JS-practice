@@ -1,3 +1,3 @@
-import {setMain} from "./map-sat";
+import {main} from "./symbols";
 
-setMain();
+main();
