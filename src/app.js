@@ -1,3 +1,3 @@
-import {main} from "./symbols";
+import {main} from "./async-await";
 
 main();
