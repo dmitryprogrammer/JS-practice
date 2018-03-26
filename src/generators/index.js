@@ -42,8 +42,6 @@ export function main() {
         str += String.fromCharCode(code);
     }
 
-    console.log(str);
-
     let pingPongGeneratorExample = pingPongGenerator();
     console.log(pingPongGeneratorExample.next().value);
     console.log(pingPongGeneratorExample.next(5).value);
