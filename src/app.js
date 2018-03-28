@@ -1,3 +1,3 @@
-import {main} from "./async-await";
+import {main} from "./forOf";
 
 main();
