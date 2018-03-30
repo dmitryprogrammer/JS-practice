@@ -25,5 +25,7 @@ export function main() {
     }
 
     add1ByPromises(10)
-        .then(v => console.log("promises", v[0] + v[1] + v[2]));
+        .then(v => {
+            console.log("promises", v[0] + v[1] + v[2])
+        });
 }
