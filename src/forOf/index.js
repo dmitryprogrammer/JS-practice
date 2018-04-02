@@ -27,3 +27,4 @@ export function main() {
         console.log(num);
     }
 }
+
